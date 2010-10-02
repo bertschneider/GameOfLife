@@ -1,7 +1,7 @@
 # Game of Life - Kata 7
 
 My Game of Life Kata - Version 7.
-This time Unit Testing is done with Lazy Test.
+Unit Testing with LazyTest.
 
 ## License
 
